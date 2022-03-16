@@ -1,4 +1,5 @@
 ---
+title: Alessandro Gaiarin
 permalink: /contact.html
 ---
 # Contact Information
