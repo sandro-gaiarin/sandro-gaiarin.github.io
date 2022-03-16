@@ -9,4 +9,4 @@ permalink: /contact.html
 
 
 ---
-~Back to [home]()~
+ ~Back to [home]()~ 
